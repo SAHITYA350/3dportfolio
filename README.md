@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -15,3 +16,7 @@ If you are developing a production application, we recommend using TypeScript wi
 # portfolioSG
 My first portfolio , I use reactJS, ThreeJS framework, tailwindcss, multiple libraries..
 >>>>>>> 599b3ebf1a3fa949c736f66b7b214826f201de5d
+=======
+# 3dportfolio
+My 3D portfolio website built with React and Three.js
+>>>>>>> 78b8182a081320b21dff8746d6aeb57445eaef5d
